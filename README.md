@@ -1,3 +1,5 @@
-# assign2Server
-This is for assignment 2 of my class CNT 4713
+# TCPServerPython
+It acts as a simple server
+That serves a simple website
+
 By Eduardo Dotel
